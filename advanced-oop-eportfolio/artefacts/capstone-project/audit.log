@@ -2,3 +2,7 @@
 {"event_type": "login_failed", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {}, "occurred_at": "2026-01-15 20:23:45.523437+00:00"}
 {"event_type": "login_failed", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {}, "occurred_at": "2026-01-15 20:23:45.523440+00:00"}
 {"event_type": "login_failed", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {}, "occurred_at": "2026-01-15 20:23:45.523441+00:00"}
+{"event_type": "transfer_initiated", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {"amount": 750.0, "destination_account": "ACC-900"}, "occurred_at": "2026-01-15 20:46:41.519325+00:00"}
+{"event_type": "login_failed", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {}, "occurred_at": "2026-01-15 20:46:41.519448+00:00"}
+{"event_type": "login_failed", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {}, "occurred_at": "2026-01-15 20:46:41.519450+00:00"}
+{"event_type": "login_failed", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {}, "occurred_at": "2026-01-15 20:46:41.519451+00:00"}
