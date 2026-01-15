@@ -1,0 +1,4 @@
+{"event_type": "transfer_initiated", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {"amount": 750.0, "destination_account": "ACC-900"}, "occurred_at": "2026-01-15 20:21:56.293471+00:00"}
+{"event_type": "login_failed", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {}, "occurred_at": "2026-01-15 20:21:56.293661+00:00"}
+{"event_type": "login_failed", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {}, "occurred_at": "2026-01-15 20:21:56.293663+00:00"}
+{"event_type": "login_failed", "account_id": "ACC-001", "actor_id": "user-123", "metadata": {}, "occurred_at": "2026-01-15 20:21:56.293664+00:00"}
