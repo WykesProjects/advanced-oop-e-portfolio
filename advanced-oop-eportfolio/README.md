@@ -4,6 +4,8 @@ This repository contains my e-Portfolio for the Advanced Object-Oriented Design 
 
 The e-Portfolio presents a curated collection of artefacts developed throughout the module, demonstrating my understanding and application of advanced object-oriented principles, secure coding practices, design patterns, and scalable software architecture. Collectively, these artefacts form a capstone-style body of work reflecting my learning journey across the module.
 
+The primary summative artefact for this module is the capstone project located within the artefacts directory, supported by formative coding exercises and case studies.
+
 ## Portfolio Structure
 
 - artefacts/
