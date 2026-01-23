@@ -13,10 +13,5 @@ The primary summative artefact for this module is the **capstone project**, loca
 - **Case studies** exploring software architecture, security considerations, and system scalability.
 - **Capstone project artefacts** illustrating architectural decision-making, modular design, testing, and extensibility.
 
-### `reflections/`
-- Reflective commentary linking practical artefacts to module learning outcomes.
-- Capstone overview and design rationale.
 
 Each artefact includes a brief description outlining its purpose, the object-oriented principles applied, challenges encountered, and how it demonstrates advanced object-oriented design and programming concepts.
-
-For assessors, the recommended starting point is the **capstone project**, followed by the reflective evaluation document, with supporting artefacts referenced throughout.
