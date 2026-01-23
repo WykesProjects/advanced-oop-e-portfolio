@@ -6,8 +6,6 @@ The e-Portfolio presents a curated collection of artefacts developed throughout 
 
 The primary summative artefact for this module is the **capstone project**, located within the `artefacts/capstone-project` directory. This project integrates concepts explored throughout the module and serves as the main evidence supporting the reflective evaluation submitted for assessment.
 
-## Portfolio Structure
-
 ### `artefacts/`
 - **Coding exercises** demonstrating advanced object-oriented programming principles, refactoring, and secure design.
 - **Case studies** exploring software architecture, security considerations, and system scalability.
